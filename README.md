@@ -17,7 +17,4 @@
 <code><img alt="C#" width="26px" src="https://img.icons8.com/color/26/000000/c#.png" /></code>
 
 <br />
-<br />
-
----
 ---
